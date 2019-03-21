@@ -204,10 +204,6 @@ def suminagashi(nr_rings=21,
         dpi : int, optional, default is 300
             Picture resolution.
 
-        Return
-        ------
-        y : ndarray
-            Soft-clipped array.
     '''
 
     # Set the random seed
